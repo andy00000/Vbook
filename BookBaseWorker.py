@@ -13,6 +13,12 @@ DataBase structure:
 8. Binding -> SET OF STRINGS
 9. Publisher (publishing house) -> SET OF STRINGS
 10. Book series -> SET OF STRINGS
+11. Number in series -> INTEGER
+
+2 - 'Book author' is a separate table in database
+6 - 'Format' is a separate table in database
+8 - 'Binding' is a separate table in database
+9 - 'Publisher (publishing house)' is a separate table in database
 
 """
 
